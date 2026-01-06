@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Arijit Chanda, student of IIT (ISM) Dhanbad, a passionate Machine Learning and Artificial Intelligence enthusiast who is continually learning and exploring the ever-evolving tech landscape. My journey into the world of ML/AI began with a deep curiosity and an eagerness to understand how these technologies can shape the future. 
+
+With a strong love for technology and electronics, I am on a perpetual quest to absorb knowledge and apply it to real-world scenarios. I believe in the power of humble learning and the value of sharing insights with others. 
