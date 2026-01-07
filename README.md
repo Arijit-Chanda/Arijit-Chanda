@@ -1,19 +1,103 @@
-## Hi there 👋
+# 👋 Hi, I'm Arijit Chanda
 
-<!--
-**Arijit-Chanda/Arijit-Chanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech Electrical Engineering @ **IIT (ISM) Dhanbad**  
+💡 Machine Learning | Backend Development | Problem Solving  
+📍 India | 🎓 Graduating May 2026  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hello, I'm Arijit Chanda, student of IIT (ISM) Dhanbad, a passionate Machine Learning and Artificial Intelligence enthusiast who is continually learning and exploring the ever-evolving tech landscape. My journey into the world of ML/AI began with a deep curiosity and an eagerness to understand how these technologies can shape the future. 
+## 🧑‍💻 About Me
 
-With a strong love for technology and electronics, I am on a perpetual quest to absorb knowledge and apply it to real-world scenarios. I believe in the power of humble learning and the value of sharing insights with others. 
+I’m a passionate engineer with strong interests in **Machine Learning, AI, and Full-Stack Development**.  
+I enjoy building real-world applications that combine **data, intelligence, and clean system design**.
+
+- 🔍 Strong foundation in **DSA, OOP, OS, DBMS**
+- 🤖 Hands-on experience with **ML, Deep Learning & NLP**
+- ⚡ Competitive Programmer with consistent contest performance
+- 🌱 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- **C, C++, Python**
+
+### 🔧 Frameworks & Tools
+- **Machine Learning / AI**: TensorFlow, PyTorch, Keras, scikit-learn  
+- **Backend / Web**: Flask, Node.js, Express.js  
+- **Data & Visualization**: NumPy, Pandas, Matplotlib  
+- **Other Tools**: OpenCV, Git, GitHub, MongoDB  
+
+### 📚 Core Concepts
+- Machine Learning & Deep Learning  
+- Neural Networks  
+- NLP & LLMs  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+
+---
+
+## 🚀 Projects
+
+### 🩺 IntelliDoc – Your Health Buddy
+**Tech**: React.js, Node.js, Express.js, MongoDB, Flask, OpenCV, TensorFlow  
+- Built a health analysis web app using image/manual data input  
+- Generated diagnostic reports with **90%+ accuracy**
+- Integrated **MediBuddy chatbot** for personalized health advice
+- Enabled early detection of **10+ medical conditions**
+
+🔗 GitHub: https://intelli-doc-updated-2025.vercel.app/
+
+---
+
+### 🎬 Movie Recommender System
+**Tech**: Flask, TensorFlow, scikit-learn  
+- Content-based recommender using **TMDB 5000 dataset**
+- Achieved **85%+ recommendation accuracy**
+- Optimized response time to **< 1 second**
+- Used **Bag-of-Words + CountVectorizer**
+
+🔗 GitHub: https://movie-recommender-fastapi-app-rstlspx9gw5t2rrabqbmfx.streamlit.app/
+
+---
+
+### 🛰️ Martian Landmark Detection
+**Tech**: TensorFlow, PyTorch, OpenCV  
+- CNN-based landmark classifier with **92%+ accuracy**
+- Applied **transfer learning & data augmentation**
+- Automated preprocessing and visualization pipeline
+
+🔗 GitHub: _[Link coming soon]_
+
+---
+
+## 🏆 Competitive Programming
+
+- ⭐ **Codeforces**: 1322 (Pupil)  
+- ⭐ **CodeChef**: 1742 (3★)  
+- 🌍 Global Rank **202** in CodeChef Starters 124  
+- ✅ Solved **500+ problems** across platforms  
+- 🧠 Solved **250+ LeetCode** DSA problems  
+
+---
+
+## 🎯 Leadership & Activities
+
+- 🎤 **Head of Promotions** – Parakram’24 & Concetto’24  
+- 📸 Member – FotoFreaks (Photography Club)  
+- 🤝 Volunteer – Kartavya NGO (Teaching underprivileged children)  
+- ⚽ Interests – Football, Chess  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **arijitchanda003@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/arijit-chanda]([https://www.linkedin.com](https://www.linkedin.com/in/arijit-chanda-2b8b66255/))
+- 🧠 GitHub: [github.com/Arijit-Chanda](https://github.com/Arijit-Chanda)
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
+Let’s build something impactful together 🚀
