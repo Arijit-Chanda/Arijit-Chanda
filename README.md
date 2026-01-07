@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arijit Chanda
 
 🚀 B.Tech Electrical Engineering @ **IIT (ISM) Dhanbad**  
-💡 Machine Learning | Backend Development | Problem Solving  
+💡 Machine Learning | Problem Solving  
 📍 India | 🎓 Graduating May 2026  
 
 ---
