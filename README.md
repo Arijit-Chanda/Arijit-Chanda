@@ -41,34 +41,14 @@ I enjoy building real-world applications that combine **data, intelligence, and 
 ## 🚀 Projects
 
 ### 🩺 IntelliDoc – Your Health Buddy
-**Tech**: React.js, Node.js, Express.js, MongoDB, Flask, OpenCV, TensorFlow  
-- Built a health analysis web app using image/manual data input  
-- Generated diagnostic reports with **90%+ accuracy**
-- Integrated **MediBuddy chatbot** for personalized health advice
-- Enabled early detection of **10+ medical conditions**
 
-🔗 GitHub: https://intelli-doc-updated-2025.vercel.app/
+🔗 GitHub: [Link](https://intelli-doc-updated-2025.vercel.app/)
 
 ---
 
 ### 🎬 Movie Recommender System
-**Tech**: Flask, TensorFlow, scikit-learn  
-- Content-based recommender using **TMDB 5000 dataset**
-- Achieved **85%+ recommendation accuracy**
-- Optimized response time to **< 1 second**
-- Used **Bag-of-Words + CountVectorizer**
 
-🔗 GitHub: https://movie-recommender-fastapi-app-rstlspx9gw5t2rrabqbmfx.streamlit.app/
-
----
-
-### 🛰️ Martian Landmark Detection
-**Tech**: TensorFlow, PyTorch, OpenCV  
-- CNN-based landmark classifier with **92%+ accuracy**
-- Applied **transfer learning & data augmentation**
-- Automated preprocessing and visualization pipeline
-
-🔗 GitHub: _[Link coming soon]_
+🔗 GitHub: [Link](https://movie-recommender-fastapi-app-rstlspx9gw5t2rrabqbmfx.streamlit.app/)
 
 ---
 
@@ -82,19 +62,10 @@ I enjoy building real-world applications that combine **data, intelligence, and 
 
 ---
 
-## 🎯 Leadership & Activities
-
-- 🎤 **Head of Promotions** – Parakram’24 & Concetto’24  
-- 📸 Member – FotoFreaks (Photography Club)  
-- 🤝 Volunteer – Kartavya NGO (Teaching underprivileged children)  
-- ⚽ Interests – Football, Chess  
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **arijitchanda003@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/arijit-chanda]([https://www.linkedin.com](https://www.linkedin.com/in/arijit-chanda-2b8b66255/))
+- 💼 LinkedIn: [linkedin.com/in/arijit-chanda](https://www.linkedin.com/in/arijit-chanda-2b8b66255/)
 - 🧠 GitHub: [github.com/Arijit-Chanda](https://github.com/Arijit-Chanda)
 
 ---
